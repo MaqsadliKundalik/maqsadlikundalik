@@ -22,5 +22,5 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 
 ---
-## 🐍 Snake animation
-![Snake animation](https://raw.githubusercontent.com/maqsadlikundalik/maqsadlikundalik/output/snake.svg)
+## ⏱️ So‘nggi faoliyat (WakaTime)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=USERNAME&theme=radical)
