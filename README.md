@@ -22,5 +22,5 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 
 ---
-## 🐍 Snake graph (commit animatsiyasi)
-![Snake animation](https://github.com/maqsadlikundalik/maqsadlikundalik/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Snake animation
+![Snake animation](https://github.com/maqsadlikundalik/maqsadlikundalik/blob/output/snake.svg)
