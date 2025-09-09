@@ -23,4 +23,4 @@
 
 ---
 ## ⏱️ So‘nggi faoliyat (WakaTime)
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=USERNAME&theme=radical)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maqsadlikundalik&theme=radical)
