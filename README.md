@@ -22,11 +22,9 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 
 ---
-## 📊 Faoliyat grafigi
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maqsadlikundalik&theme=tokyo-night)
+## 🐍 Contribution Snake
 
-...
-## 🔥 Streak statistikasi
-![GitHub Streak](https://streak-stats.demolab.com?user=maqsadlikundalik&theme=radical)
+![snake light](https://raw.githubusercontent.com/maqsadlikundalik/maqsadlikundalik/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake dark](https://raw.githubusercontent.com/maqsadlikundalik/maqsadlikundalik/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
