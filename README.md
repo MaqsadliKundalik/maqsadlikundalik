@@ -4,7 +4,6 @@
 ## ⚡ Statistikalar
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maqsadlikundalik&show_icons=true&theme=radical)
 
-...
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=fff)
 ![Aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?logo=telegram&logoColor=fff)
