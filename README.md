@@ -8,10 +8,10 @@
 
 ---
 ## ⚡ Statistikalar
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maqsadlikundalik&show_icons=true&theme=radical)
 
 ## 🔥 Eng ko‘p ishlatgan texnologiyalarim
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maqsadlikundalik&layout=compact&theme=radical)
 
 ---
 ## 🛠️ Texnologiyalar
@@ -23,4 +23,4 @@
 
 ---
 ## 🐍 Snake graph (commit animatsiyasi)
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/YOUR_USERNAME/maqsadlikundalik/blob/output/github-contribution-grid-snake.svg)
