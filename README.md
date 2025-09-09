@@ -23,4 +23,4 @@
 
 ---
 ## 🐍 Snake graph (commit animatsiyasi)
-![Snake animation](https://github.com/YOUR_USERNAME/maqsadlikundalik/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/maqsadlikundalik/maqsadlikundalik/blob/output/github-contribution-grid-snake.svg)
