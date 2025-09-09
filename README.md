@@ -23,4 +23,4 @@
 
 ---
 ## 🐍 Snake animation
-![Snake animation](https://github.com/maqsadlikundalik/maqsadlikundalik/blob/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/maqsadlikundalik/maqsadlikundalik/output/snake.svg)
