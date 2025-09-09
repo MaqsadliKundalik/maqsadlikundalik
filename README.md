@@ -22,5 +22,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 
 ---
-## ⏱️ So‘nggi faoliyat (WakaTime)
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maqsadlikundalik&theme=radical)
+## 📊 Faoliyat grafigi
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maqsadlikundalik&theme=tokyo-night)
+
