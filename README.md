@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Salom, men Odilbek Xudoyberganov
 
-<!--
-**MaqsadliKundalik/maqsadlikundalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python | Django | Aiogram | PyQt5 | C++
 
-Here are some ideas to get you started:
+- 🚀 Hozirgi loyihalarim: Univers Mafia, EduVideo, Aura 8D Bot
+- 🎥 YouTube’da darslar tayyorlayman
+- 📫 Bog‘lanish: [Telegram](https://t.me/username) | [Email](mailto:you@example.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## ⚡ Statistikalar
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+## 🔥 Eng ko‘p ishlatgan texnologiyalarim
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
+## 🛠️ Texnologiyalar
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=fff)
+![Aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?logo=telegram&logoColor=fff)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
+
+---
+## 🐍 Snake graph (commit animatsiyasi)
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
