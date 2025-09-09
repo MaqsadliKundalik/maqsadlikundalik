@@ -25,3 +25,8 @@
 ## 📊 Faoliyat grafigi
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maqsadlikundalik&theme=tokyo-night)
 
+...
+## 🔥 Streak statistikasi
+![GitHub Streak](https://streak-stats.demolab.com?user=maqsadlikundalik&theme=radical)
+
+
